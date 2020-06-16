@@ -1,5 +1,5 @@
 module TestPkg
 
-# Write your package code here.
+1==1
 
 end
